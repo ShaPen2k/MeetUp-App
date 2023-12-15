@@ -17,12 +17,11 @@ export default {
     return {
       menuItems: [
         { id: 1, text: "Главная" },
-        { id: 2, text: "Категории" },
-        { id: 3, text: "Контакты" },
-        { id: 4, text: "Поддержка" },
-        { id: 5, text: "О нас" },
-        { id: 6, text: "Справка" },
-        { id: 7, text: "Блог" },
+        { id: 2, text: "Контакты" },
+        { id: 3, text: "Поддержка" },
+        { id: 4, text: "О нас" },
+        { id: 5, text: "Справка" },
+        { id: 6, text: "Блог" },
       ],
     };
   },
