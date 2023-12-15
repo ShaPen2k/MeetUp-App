@@ -56,6 +56,10 @@
           <a href="#"><br />Просмотреть</a>
         </div>
       </div>
+      <br />
+      <div class="personText">
+        <a href="#">Самые красивые пользователи сайта</a>
+      </div>
     </div>
   </div>
 </template>
@@ -75,6 +79,13 @@
   margin-left: auto;
   margin-right: auto;
   color: #f36223;
+  font-weight: 600;
+  text-shadow: 2px 2px #000;
+}
+.personText {
+  margin-left: 260px;
+  margin-right: auto;
+  font-size: 40px;
   font-weight: 600;
   text-shadow: 2px 2px #000;
 }

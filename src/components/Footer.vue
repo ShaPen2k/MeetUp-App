@@ -101,7 +101,7 @@ export default {
 /* Стили, специфичные для этого компонента */
 footer {
   position: absolute;
-  top: 2250px;
+  top: 2650px;
   width: 1800px;
   background-color: #333;
   color: #fff;
