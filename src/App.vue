@@ -2,10 +2,7 @@
 
 <template>
   <div id="app">
-    <Menu></Menu>
-    <MainRes></MainRes>
-    <Carousel></Carousel>
-    <Footer></Footer>
+    <router-view />
   </div>
 </template>
 

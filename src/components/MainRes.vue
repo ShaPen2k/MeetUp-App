@@ -3,7 +3,7 @@
 <template>
   <div>
     <div class="grektitle">
-      <a href="laba1.html">MeetUp</a>
+      <a>MeetUp</a>
     </div>
     <div class="box">
       <div class="text">Самые популярные объявления дня</div>

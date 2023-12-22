@@ -7,7 +7,7 @@
         {{ item.text }}
       </li>
     </ul>
-    <button>Войти в личный кабинет</button>
+    <button @click="$router.push('/lk')">Войти в личный кабинет</button>
   </div>
 </template>
 
