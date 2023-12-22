@@ -9,7 +9,7 @@
         </div>
         <div class="social-links">
           <a
-            href="ссылка_на_ваш_facebook"
+            href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
             target="_blank"
             rel="noopener noreferrer"
             ><img
@@ -20,7 +20,7 @@
             Facebook</a
           >
           <a
-            href="ссылка_на_ваш_twitter"
+            href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
             target="_blank"
             rel="noopener noreferrer"
             ><img
@@ -31,7 +31,7 @@
             Snapchat</a
           >
           <a
-            href="ссылка_на_ваш_twitter"
+            href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -43,7 +43,7 @@
             Telegram</a
           >
           <a
-            href="ссылка_на_ваш_twitter"
+            href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -55,7 +55,7 @@
             YouTube</a
           >
           <a
-            href="ссылка_на_ваш_twitter"
+            href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
             target="_blank"
             rel="noopener noreferrer"
             ><img
@@ -66,7 +66,7 @@
             Behance</a
           >
           <a
-            href="ссылка_на_ваш_twitter"
+            href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
             target="_blank"
             rel="noopener noreferrer"
           >
