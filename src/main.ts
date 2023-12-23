@@ -1,6 +1,6 @@
 import { createApp } from "vue";
 import "./style.css";
-import App2 from "./components/App2.vue";
+import RegForm from "./RegForm.vue";
 import Registration from "./components/Registration.vue";
 import App from "./App.vue";
 import { createRouter, createWebHistory } from "vue-router";
@@ -12,11 +12,11 @@ const router = createRouter({
     },
     {
       path: "/",
-      component: App2,
+      component: App,
     },
   ],
   history: createWebHistory(),
 });
-const app = createApp(App);
+const app = createApp(RegForm);
 app.use(router);
 app.mount("#app");

@@ -13,7 +13,7 @@
             target="_blank"
             rel="noopener noreferrer"
             ><img
-              src="src/components/SVG color/Facebook.svg"
+              src="src/assets/SVG color/Facebook.svg"
               width="20"
               height="18"
             />
@@ -24,7 +24,7 @@
             target="_blank"
             rel="noopener noreferrer"
             ><img
-              src="src/components/SVG color/Snapchat.svg"
+              src="src/assets/SVG color/Snapchat.svg"
               width="20"
               height="18"
             />
@@ -36,7 +36,7 @@
             rel="noopener noreferrer"
           >
             <img
-              src="src/components/SVG color/Telegram.svg"
+              src="src/assets/SVG color/Telegram.svg"
               width="20"
               height="18"
             />
@@ -48,7 +48,7 @@
             rel="noopener noreferrer"
           >
             <img
-              src="src/components/SVG color/YouTube.svg"
+              src="src/assets/SVG color/YouTube.svg"
               width="20"
               height="18"
             />
@@ -59,7 +59,7 @@
             target="_blank"
             rel="noopener noreferrer"
             ><img
-              src="src/components/SVG color/Behance.svg"
+              src="src/assets/SVG color/Behance.svg"
               width="20"
               height="18"
             />
@@ -70,11 +70,7 @@
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img
-              src="src/components/SVG color/WeChat.svg"
-              width="20"
-              height="18"
-            />
+            <img src="src/assets/SVG color/WeChat.svg" width="20" height="18" />
             WeChat</a
           >
 

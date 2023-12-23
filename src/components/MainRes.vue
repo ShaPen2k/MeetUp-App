@@ -112,7 +112,7 @@
   width: 450px;
   height: 300px; /* Ширина и высота */
   border-radius: 10%; /* Превращаем в круг */
-  background: url(Images/woman.jpg);
+  background: url(src/assets/Images/woman.jpg);
   background-size: auto 300px;
   left: 890px;
 }
@@ -122,7 +122,7 @@
   width: 450px;
   height: 300px; /* Ширина и высота */
   border-radius: 10%; /* Превращаем в круг */
-  background: url(Images/photograf.jpg);
+  background: url(src/assets/Images/photograf.jpg);
   background-size: auto 300px;
   left: 890px;
 }
@@ -132,7 +132,7 @@
   width: 450px;
   height: 300px; /* Ширина и высота */
   border-radius: 10%; /* Превращаем в круг */
-  background: url(Images/model.jpg);
+  background: url(src/assets/Images/model.jpg);
   background-size: auto 300px;
   left: 890px;
 }
@@ -142,7 +142,7 @@
   width: 450px;
   height: 300px; /* Ширина и высота */
   border-radius: 10%; /* Превращаем в круг */
-  background: url(Images/car.jpg);
+  background: url(src/assets/Images/car.jpg);
   background-size: auto 300px;
   left: 890px;
 }
@@ -152,7 +152,7 @@
   width: 450px;
   height: 300px; /* Ширина и высота */
   border-radius: 10%; /* Превращаем в круг */
-  background: url(Images/car2.jpg);
+  background: url(src/assets/Images/car2.jpg);
   background-size: auto 300px;
   left: 890px;
 }
